@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Default
+  name: az400m03l03a-pool
 
 variables:
   buildConfiguration: 'Release'
